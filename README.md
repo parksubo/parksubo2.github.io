@@ -3,10 +3,6 @@
 <head>
 <meta charset="utf-8" />
 
-<style>
-
-</style>
-
 </head>
 
 <body lang=KO link="#5F5F5F" vlink="#6E6E6E">
