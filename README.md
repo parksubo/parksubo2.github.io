@@ -24,9 +24,12 @@ subo</p>
    <td width="100%" valign=top style='width:100.0%;padding:7.2pt 0cm 0cm 82.8pt;
    height:38.45pt'>
    <p class=ContactInfoCxSpFirst><span lang=EN-US style='font-size:10.0pt'>Git
-   :http:// <a href="https://github.com/parksubo">https://github.com/parksubo</span></a></span></p>
-   <p class=ContactInfoCxSpMiddle>Blog: https://subo0521.tistory.com/</p>
-   <p class=ContactInfoCxSpLast>Email: subo0521@hanmail.net</p>
+   :http:// </span><span lang=EN-US><a href="https://github.com/parksubo"><span
+   style='font-size:10.0pt'>https://github.com/parksubo</span></a></span></p>
+   <p class=ContactInfoCxSpMiddle><span lang=EN-US style='font-size:10.0pt'>Blog
+   : https://subo0521.tistory.com/ </span></p>
+   <p class=ContactInfoCxSpLast><span lang=EN-US style='font-size:10.0pt'>Email
+   : </span><span lang=EN-US style='font-size:10.0pt'>subo0521@hanmail.net</span></p>
    </td>
   </tr>
  </thead>
@@ -34,7 +37,8 @@ subo</p>
 
 <div style='border:none;border-bottom:double #595959 1.0pt;padding:0cm 0cm 0cm 0cm'>
 
-<h1 style='border:none;padding:0cm'>Experience</h1>
+<h1 style='border:none;padding:0cm'><span lang=EN-US style='font-size:11.0pt;
+line-height:90%'>Experience</span></h1>
 
 </div>
 
@@ -115,10 +119,10 @@ subo</p>
   </tr>
   <tr>
    <td width="18%" valign=top style='width:18.76%;padding:7.2pt 0cm 0cm 0cm'>
-   <p class=MsoDate>2022 Mar</p>
+   <p class=MsoDate><span lang=EN-US style='font-size:9.0pt'>2022 Mar</span></p>
    </td>
    <td width="81%" valign=top style='width:81.26%;padding:7.2pt 0cm 0cm 0cm'>
-   <p class=MsoNormal>&nbsp;</p>
+   <p class=MsoNormal><span lang=EN-US style='font-size:9.0pt'>&nbsp;</span></p>
    </td>
   </tr>
  </thead>
@@ -126,7 +130,7 @@ subo</p>
 
 <div style='border:none;border-bottom:double #595959 1.0pt;padding:0cm 0cm 1.0pt 0cm'>
 
-<h1>TECHNICAL</h1>
+<h1><span lang=EN-US style='font-size:12.0pt;line-height:90%'>TECHNICAL</span></h1>
 
 </div>
 
@@ -137,11 +141,16 @@ subo</p>
   <tr style='height:36.05pt'>
    <td width="100%" valign=top style='width:100.0%;padding:7.2pt 0cm 0cm 82.8pt;
    height:36.05pt'>
-   <p class=MsoNormal style='line-height:normal'><Languages : C, C++, C#, Java, python, Solidity, SQL</p>
-   <p class=MsoNormal style='line-height:normal'>Operating System : Windows, Linux</p>
-   <p class=MsoNormal style='line-height:normal'><Front-end : javascript</p>
-   <p class=MsoNormal style='line-height:normal'>Back-end : node.js django</span></p>
-   <p class=MsoNormal style='line-height:normal'>Database System : SQL Server, Oracle</p>
+   <p class=MsoNormal style='line-height:normal'><span lang=EN-US
+   style='font-size:9.0pt'>Languages : C, C++, C#, Java, python, Solidity, SQL</span></p>
+   <p class=MsoNormal style='line-height:normal'><span lang=EN-US
+   style='font-size:9.0pt'>Operating System : Windows, Linux</span></p>
+   <p class=MsoNormal style='line-height:normal'><span lang=EN-US
+   style='font-size:9.0pt'>Front-end : javascript</span></p>
+   <p class=MsoNormal style='line-height:normal'><span lang=EN-US
+   style='font-size:9.0pt'>Back-end : node.js django</span></p>
+   <p class=MsoNormal style='line-height:normal'><span lang=EN-US
+   style='font-size:9.0pt'>Database System : SQL Server, Oracle</span></p>
    </td>
   </tr>
  </thead>
@@ -149,7 +158,7 @@ subo</p>
 
 <div style='border:none;border-bottom:double #595959 1.0pt;padding:0cm 0cm 1.0pt 0cm'>
 
-<h1>Education</h1>
+<h1><span lang=EN-US style='font-size:12.0pt;line-height:90%'>Education</span></h1>
 
 </div>
 
@@ -159,13 +168,13 @@ subo</p>
  <thead>
   <tr>
    <td width="18%" valign=top style='width:18.26%;padding:7.2pt 0cm 0cm 0cm'>
-   <p class=MsoDate>2017 Mar -</p>
-   <p class=MsoDate>2022 Mar</p>
+   <p class=MsoDate><span lang=EN-US style='font-size:9.0pt'>2017 Mar -</span></p>
+   <p class=MsoDate><span lang=EN-US style='font-size:9.0pt'>2022 Mar</span></p>
    </td>
    <td width="81%" valign=top style='width:81.74%;padding:7.2pt 0cm 0cm 0cm'>
-   <p class=MsoNormal>Computer Science
+   <p class=MsoNormal><span lang=EN-US style='font-size:9.0pt'>Computer Science
    Degree anticipated Feb 2023, &nbsp;&nbsp;Chungnam National University,
-   Daejeon, Korea.</p>
+   Daejeon, Korea.</span></p>
    </td>
   </tr>
  </thead>
