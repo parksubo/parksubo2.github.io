@@ -11,8 +11,8 @@
 
 <div style='border:none;border-bottom:double #595959 1.0pt;padding:0cm 0cm 1.0pt 0cm'>
 
-<p class=MsoTitle><span lang=EN-US style='font-size:20.0pt;line-height:85%'>park,
-subo</span></p>
+<p class=MsoTitle>park,
+subo</p>
 
 </div>
 
@@ -119,10 +119,10 @@ line-height:90%'>Experience</span></h1>
   </tr>
   <tr>
    <td width="18%" valign=top style='width:18.76%;padding:7.2pt 0cm 0cm 0cm'>
-   <p class=MsoDate><span lang=EN-US style='font-size:9.0pt'>2022 Mar</span></p>
+   <p class=MsoDate>2022 Mar</p>
    </td>
    <td width="81%" valign=top style='width:81.26%;padding:7.2pt 0cm 0cm 0cm'>
-   <p class=MsoNormal><span lang=EN-US style='font-size:9.0pt'>&nbsp;</span></p>
+   <p class=MsoNormal>&nbsp;</p>
    </td>
   </tr>
  </thead>
@@ -130,7 +130,7 @@ line-height:90%'>Experience</span></h1>
 
 <div style='border:none;border-bottom:double #595959 1.0pt;padding:0cm 0cm 1.0pt 0cm'>
 
-<h1><span lang=EN-US style='font-size:12.0pt;line-height:90%'>TECHNICAL</span></h1>
+<h1>TECHNICAL</h1>
 
 </div>
 
@@ -141,16 +141,11 @@ line-height:90%'>Experience</span></h1>
   <tr style='height:36.05pt'>
    <td width="100%" valign=top style='width:100.0%;padding:7.2pt 0cm 0cm 82.8pt;
    height:36.05pt'>
-   <p class=MsoNormal style='line-height:normal'><span lang=EN-US
-   style='font-size:9.0pt'>Languages : C, C++, C#, Java, python, Solidity, SQL</span></p>
-   <p class=MsoNormal style='line-height:normal'><span lang=EN-US
-   style='font-size:9.0pt'>Operating System : Windows, Linux</span></p>
-   <p class=MsoNormal style='line-height:normal'><span lang=EN-US
-   style='font-size:9.0pt'>Front-end : javascript</span></p>
-   <p class=MsoNormal style='line-height:normal'><span lang=EN-US
-   style='font-size:9.0pt'>Back-end : node.js django</span></p>
-   <p class=MsoNormal style='line-height:normal'><span lang=EN-US
-   style='font-size:9.0pt'>Database System : SQL Server, Oracle</span></p>
+   <p class=MsoNormal style='line-height:normal'><Languages : C, C++, C#, Java, python, Solidity, SQL</p>
+   <p class=MsoNormal style='line-height:normal'>Operating System : Windows, Linux</p>
+   <p class=MsoNormal style='line-height:normal'><Front-end : javascript</p>
+   <p class=MsoNormal style='line-height:normal'>Back-end : node.js django</span></p>
+   <p class=MsoNormal style='line-height:normal'>Database System : SQL Server, Oracle</p>
    </td>
   </tr>
  </thead>
@@ -158,7 +153,7 @@ line-height:90%'>Experience</span></h1>
 
 <div style='border:none;border-bottom:double #595959 1.0pt;padding:0cm 0cm 1.0pt 0cm'>
 
-<h1><span lang=EN-US style='font-size:12.0pt;line-height:90%'>Education</span></h1>
+<h1>Education</h1>
 
 </div>
 
@@ -168,13 +163,13 @@ line-height:90%'>Experience</span></h1>
  <thead>
   <tr>
    <td width="18%" valign=top style='width:18.26%;padding:7.2pt 0cm 0cm 0cm'>
-   <p class=MsoDate><span lang=EN-US style='font-size:9.0pt'>2017 Mar -</span></p>
-   <p class=MsoDate><span lang=EN-US style='font-size:9.0pt'>2022 Mar</span></p>
+   <p class=MsoDate>2017 Mar -</p>
+   <p class=MsoDate>2022 Mar</p>
    </td>
    <td width="81%" valign=top style='width:81.74%;padding:7.2pt 0cm 0cm 0cm'>
-   <p class=MsoNormal><span lang=EN-US style='font-size:9.0pt'>Computer Science
+   <p class=MsoNormal>Computer Science
    Degree anticipated Feb 2023, &nbsp;&nbsp;Chungnam National University,
-   Daejeon, Korea.</span></p>
+   Daejeon, Korea.</p>
    </td>
   </tr>
  </thead>
