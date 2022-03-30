@@ -24,12 +24,9 @@ subo</p>
    <td width="100%" valign=top style='width:100.0%;padding:7.2pt 0cm 0cm 82.8pt;
    height:38.45pt'>
    <p class=ContactInfoCxSpFirst><span lang=EN-US style='font-size:10.0pt'>Git
-   :http:// </span><span lang=EN-US><a href="https://github.com/parksubo"><span
-   style='font-size:10.0pt'>https://github.com/parksubo</span></a></span></p>
-   <p class=ContactInfoCxSpMiddle><span lang=EN-US style='font-size:10.0pt'>Blog
-   : https://subo0521.tistory.com/ </span></p>
-   <p class=ContactInfoCxSpLast><span lang=EN-US style='font-size:10.0pt'>Email
-   : </span><span lang=EN-US style='font-size:10.0pt'>subo0521@hanmail.net</span></p>
+   :http:// <a href="https://github.com/parksubo">https://github.com/parksubo</span></a></span></p>
+   <p class=ContactInfoCxSpMiddle>Blog: https://subo0521.tistory.com/</p>
+   <p class=ContactInfoCxSpLast>Email: subo0521@hanmail.net</p>
    </td>
   </tr>
  </thead>
@@ -37,8 +34,7 @@ subo</p>
 
 <div style='border:none;border-bottom:double #595959 1.0pt;padding:0cm 0cm 0cm 0cm'>
 
-<h1 style='border:none;padding:0cm'><span lang=EN-US style='font-size:11.0pt;
-line-height:90%'>Experience</span></h1>
+<h1 style='border:none;padding:0cm'>Experience</h1>
 
 </div>
 
